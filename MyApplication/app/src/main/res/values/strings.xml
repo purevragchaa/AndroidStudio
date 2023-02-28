@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no_data">no_data</string>
+    <string name="add">ADD</string>
+    <string name="title">Гарчиг</string>
+    <string name="instruction">Хийх зүйлийн заавар</string>
+    <string name="deadline">Дуусах өдөр</string>
+    <string name="add_text">Нэмэх</string>
+    <string name="title_txt">Title</string>
+
+</resources>

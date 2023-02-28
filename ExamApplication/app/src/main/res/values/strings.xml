@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exam Application</string>
+    <string name="add">ADD</string>
+    <string name="no_data">No Data.</string>
+</resources>

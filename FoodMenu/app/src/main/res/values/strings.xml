@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food Menu</string>
+    <string name="title">Title</string>
+    <string name="title1">Бууз</string>
+    <string name="title2">Хуушуур</string>
+    <string name="title3">Банштай Цай</string>
+    <string name="title4">Бантан</string>
+    <string name="description">Орц:</string>
+    <string name="order_label_text">Захиалга өгөх</string>
+    <string name="name_label_text">Нэр</string>
+    <string name="enter_name_hint">Та өөрийн нэрээ оруулна уу ?</string>
+    <string name="address_label_text">Хаяг</string>
+    <string name="enter_address_hint">"Хоол хүргүүлэн авах хаягыг оруулна уу?"</string>
+    <string name="phone_label_string">Утасны дугаар</string>
+    <string name="enter_phone_hint">Та утасны дугаараа оруулна уу?</string>
+    <string name="note_label_text">Тэмдэглэл</string>
+    <string name="enter_note_hint">"Үйлчилгээтэй холбоотой санал хүсэлт байвал энд оруулна уу? "</string>
+</resources>

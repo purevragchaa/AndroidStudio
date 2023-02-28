@@ -1,0 +1,22 @@
+Index: app/build/generated/source/buildConfig/debug/com/example/hellosay/BuildConfig.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/build/generated/source/buildConfig/debug/com/example/hellosay/BuildConfig.java b/app/build/generated/source/buildConfig/debug/com/example/hellosay/BuildConfig.java
+new file mode 100644
+--- /dev/null	(date 1663560519898)
++++ b/app/build/generated/source/buildConfig/debug/com/example/hellosay/BuildConfig.java	(date 1663560519898)
+@@ -0,0 +1,12 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.example.hellosay;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String APPLICATION_ID = "com.example.hellosay";
++  public static final String BUILD_TYPE = "debug";
++  public static final int VERSION_CODE = 1;
++  public static final String VERSION_NAME = "1.0";
++}

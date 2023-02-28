@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design-theme:28.0.0-alpha1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/584d5c7404136c22536983a7475e728c/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/dcbcb1d3b15d8c6249c6a301839c428e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/584d5c7404136c22536983a7475e728c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/584d5c7404136c22536983a7475e728c/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/dcbcb1d3b15d8c6249c6a301839c428e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/design-theme-28.0.0-alpha1.aar/dcbcb1d3b15d8c6249c6a301839c428e/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
